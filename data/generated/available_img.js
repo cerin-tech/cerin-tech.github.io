@@ -1,0 +1,1 @@
+const availableImg = ["ali2018deepening","ali2018exploring","argyriou2020design","Beck2016Visual","boboc2022augmented","chen2024people","gonzalez2020survey","jiang2022study","king2025evaluating","olaz2022interdisciplinary","yin2021mobile"];
